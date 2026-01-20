@@ -1,0 +1,21 @@
+{
+    "full_name": "Shreya Gupta",
+    "name": "Shreya",
+    "current_role": "Lead Applied Scientist",
+    "location": "San Francisco, CA",
+    "email": "shreya.official@gmail.com",
+    "linkedin": "linkedin.com/in/shreya-gupta",
+    "specialties": [
+      "Agentic AI modeling",
+      "Machine Learning",
+      "Leading AI/ML projects with multiple scientists and engineers on large projects"
+    ],
+    "years_experience": 7,
+    "education": [
+      {
+        "degree": "PhD in Operations Research",
+        "institution": "The University of Texas at Austin",
+        "year": "2019"
+      }
+    ]
+  }
